@@ -7,7 +7,7 @@
   <a href="https://linkedin.com/in/abhishek-ratnakar-668625322/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
   </a>
-  <a href="mailto:ratnakarabhishek36@gmail.com">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=ratnakarabhishek36@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" />
   </a>
 </h3>
@@ -146,7 +146,7 @@ I'm a **Full Stack Developer** focused on **building backend systems**, **APIs**
   <a href="https://www.linkedin.com/in/abhishek-ratnakar-668625322/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:ratnakarabhishek36@gmail.com">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=ratnakarabhishek36@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
