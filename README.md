@@ -132,14 +132,6 @@ My professional journey involves building production-ready applications that com
 
 ---
 
-## Contribution Graph
-
-<p align="center">
-  <img src="https://github-activity-graph-eight-theta.vercel.app/graph?username=abhishekratnakar31&theme=tokyonight&hide_border=true&bg_color=0d1117&color=58A6FF" alt="Contribution Graph" />
-</p>
-
----
-
 ## Connect
 
 <p align="center">
