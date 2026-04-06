@@ -127,7 +127,7 @@ My professional journey involves building production-ready applications that com
 </p>
 
 <p align="center">
-  <img src="https://streak-stats-eight-theta.vercel.app/?user=abhishekratnakar31&theme=tokyonight&hide_border=true&background=0d1117" alt="Streak Stats" />
+  <img src="https://streak-stats.demolab.com/?user=abhishekratnakar31&theme=tokyonight&hide_border=true&background=0d1117" alt="Streak Stats" />
 </p>
 
 ---
