@@ -13,61 +13,64 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=27&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Backend+Engineer;API+Architect;AI+Systems+Builder" alt="Typing SVG" />
+  <img src="https://readme-typing-svg-six-navy-14.vercel.app?font=Fira+Code&weight=600&size=27&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Backend+Engineer;API+Architect;AI+Systems+Builder" alt="Typing SVG" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-I'm a **Full Stack Developer** focused on **building backend systems**, **APIs**, and **intelligent full-stack applications**. My work centers on backend architecture, authentication systems, database design, and integrating modern AI technologies.
+I am a Full Stack Developer with a strong focus on backend systems, API development, and building intelligent applications. I specialize in creating scalable server architectures, implementing secure authentication systems, designing efficient databases, and integrating modern AI technologies.
 
-### 🎯 Currently Building
-- Scalable backend systems
-- AI-powered applications with RAG
-- System design projects
-- API architecture
+My professional journey involves building production-ready applications that combine robust backend logic with clean, functional frontend interfaces. I have hands-on experience with REST API design, database optimization, and AI-powered features like RAG systems.
+
+### What I'm Working On
+
+- Building scalable backend architectures
+- Developing AI-powered applications using RAG
+- System design and API architecture
+- End-to-end full stack development
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,react,nextjs,postgres,supabase,docker" />
 </p>
 
-### 💻 Languages
+### Languages
 ![JavaScript](https://skillicons.dev/icons?i=javascript)
 ![TypeScript](https://skillicons.dev/icons?i=typescript)
 ![SQL](https://skillicons.dev/icons?i=postgresql)
 
-### ⚙️ Backend & APIs
+### Backend & APIs
 ![Node.js](https://skillicons.dev/icons?i=nodejs)
 ![Express](https://skillicons.dev/icons?i=express)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 ![Zod](https://img.shields.io/badge/Zod-2F1B4D?style=for-the-badge&logo=zod)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 
-### 🌐 Frontend
+### Frontend
 ![Next.js](https://skillicons.dev/icons?i=nextjs)
 ![React](https://skillicons.dev/icons?i=react)
 ![HTML5](https://skillicons.dev/icons?i=html)
 ![CSS3](https://skillicons.dev/icons?i=css)
 ![Tailwind](https://skillicons.dev/icons?i=tailwind)
 
-### 🗄 Databases
+### Databases
 ![PostgreSQL](https://skillicons.dev/icons?i=postgresql)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=black)
 ![Qdrant](https://img.shields.io/badge/Qdrant-0059C9?style=for-the-badge&logoColor=white)
 
-### 🤖 AI & Data Systems
+### AI & Data Systems
 - RAG Systems
 - Document Chunking
 - Embeddings
 - Semantic Search
 - Vector Databases
 
-### 🧪 Testing & DevOps
+### Testing & DevOps
 ![Jest](https://skillicons.dev/icons?i=jest)
 ![Docker](https://skillicons.dev/icons?i=docker)
 ![Git](https://skillicons.dev/icons?i=git)
@@ -75,69 +78,69 @@ I'm a **Full Stack Developer** focused on **building backend systems**, **APIs**
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
 | [**Zero-Waste-Foodlink**](https://github.com/abhishekratnakar31/Zero-Waste-Foodlink) | Platform connecting food providers with organizations to reduce food waste | TypeScript, Node.js, REST APIs, PostgreSQL |
-| [**MilkTracker**](https://github.com/abhishekratnakar31/MilkTracker) | Backend system for tracking milk distribution & management | TypeScript, Express, PostgreSQL |
+| [**MilkTracker**](https://github.com/abhishekratnakar31/MilkTracker) | Backend system for tracking milk distribution and management | TypeScript, Express, PostgreSQL |
 | [**Google-Calendar-Sync**](https://github.com/abhishekratnakar31/Google-Calendar-Sync) | Google Calendar API integration for event management | JavaScript, OAuth, Google APIs |
-| [**miniGameDashboard**](https://github.com/abhishekratnakar31/miniGameDashboard) | Dashboard for tracking mini game statistics & metrics | JavaScript, Dashboard UI, CSS |
-| [**Ratnakar-Portfolio**](https://github.com/abhishekratnakar31/Ratnakar-Portfolio) | Personal portfolio showcasing projects & skills | Next.js, React, HTML, CSS |
+| [**miniGameDashboard**](https://github.com/abhishekratnakar31/miniGameDashboard) | Dashboard for tracking mini game statistics and metrics | JavaScript, Dashboard UI, CSS |
+| [**Ratnakar-Portfolio**](https://github.com/abhishekratnakar31/Ratnakar-Portfolio) | Personal portfolio showcasing projects and skills | Next.js, React, HTML, CSS |
 | [**Performly-Backend**](https://github.com/abhishekratnakar31/Performly-backend) | Backend fork for performance management system | Node.js, Express, PostgreSQL |
 
 ---
 
-## 🏗 Backend Systems Built
+## Backend Systems Built
 
-- ✅ JWT authentication system
-- ✅ Google OAuth integration
-- ✅ API validation with Zod
-- ✅ REST API architecture
-- ✅ Database-driven backend services
-- ✅ API documentation with Swagger/OpenAPI
-- ✅ Automated backend testing (Jest + Supertest)
+- JWT authentication system
+- Google OAuth integration
+- API validation with Zod
+- REST API architecture
+- Database-driven backend services
+- API documentation with Swagger/OpenAPI
+- Automated backend testing (Jest + Supertest)
 
-## 🤖 AI Systems Built
+## AI Systems Built
 
-- ✅ Document chunking pipelines
-- ✅ Embedding generation
-- ✅ Vector search using Qdrant
-- ✅ RAG-based chatbot systems
-- ✅ Semantic search implementation
+- Document chunking pipelines
+- Embedding generation
+- Vector search using Qdrant
+- RAG-based chatbot systems
+- Semantic search implementation
 
-## 🎨 Frontend Work
+## Frontend Work
 
-- ✅ Responsive UI design
-- ✅ Flexbox & CSS Grid layouts
-- ✅ Component styling
-- ✅ Dashboard development
-- ✅ Next.js pages
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhishekratnakar31&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekratnakar31&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=abhishekratnakar31&theme=tokyonight&hide_border=true&background=0d1117" alt="Streak Stats" />
-</p>
+- Responsive UI design
+- Flexbox and CSS Grid layouts
+- Component styling
+- Dashboard development
+- Next.js pages
 
 ---
 
-## 📈 Contribution Graph
+## GitHub Stats
 
 <p align="center">
-  <img src="https://github-activity-graph.vercel.app/graph?username=abhishekratnakar31&theme=tokyonight&hide_border=true&bg_color=0d1117&color=58A6FF" alt="Contribution Graph" />
+  <img src="https://github-readme-stats-six-navy-14.vercel.app/api?username=abhishekratnakar31&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-six-navy-14.vercel.app/api/top-langs/?username=abhishekratnakar31&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats-six-navy-14.vercel.app/?user=abhishekratnakar31&theme=tokyonight&hide_border=true&background=0d1117" alt="Streak Stats" />
 </p>
 
 ---
 
-## 🔗 Connect
+## Contribution Graph
+
+<p align="center">
+  <img src="https://github-activity-graph-six-navy-14.vercel.app/graph?username=abhishekratnakar31&theme=tokyonight&hide_border=true&bg_color=0d1117&color=58A6FF" alt="Contribution Graph" />
+</p>
+
+---
+
+## Connect
 
 <p align="center">
   <a href="https://github.com/abhishekratnakar31">
@@ -158,5 +161,5 @@ I'm a **Full Stack Developer** focused on **building backend systems**, **APIs**
 </p>
 
 <p align="center">
-  <sub><i>Building scalable systems one commit at a time. 🚀</i></sub>
+  <sub>Building scalable systems one commit at a time.</sub>
 </p>
