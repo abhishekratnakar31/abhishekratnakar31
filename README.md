@@ -13,7 +13,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg-six-navy-14.vercel.app?font=Fira+Code&weight=600&size=27&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Backend+Engineer;API+Architect;AI+Systems+Builder" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=27&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Backend+Engineer;API+Architect;AI+Systems+Builder" alt="Typing SVG" />
 </p>
 
 ---
@@ -122,12 +122,12 @@ My professional journey involves building production-ready applications that com
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-six-navy-14.vercel.app/api?username=abhishekratnakar31&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-six-navy-14.vercel.app/api/top-langs/?username=abhishekratnakar31&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=abhishekratnakar31&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=abhishekratnakar31&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats-six-navy-14.vercel.app/?user=abhishekratnakar31&theme=tokyonight&hide_border=true&background=0d1117" alt="Streak Stats" />
+  <img src="https://streak-stats-eight-theta.vercel.app/?user=abhishekratnakar31&theme=tokyonight&hide_border=true&background=0d1117" alt="Streak Stats" />
 </p>
 
 ---
@@ -135,7 +135,7 @@ My professional journey involves building production-ready applications that com
 ## Contribution Graph
 
 <p align="center">
-  <img src="https://github-activity-graph-six-navy-14.vercel.app/graph?username=abhishekratnakar31&theme=tokyonight&hide_border=true&bg_color=0d1117&color=58A6FF" alt="Contribution Graph" />
+  <img src="https://github-activity-graph-eight-theta.vercel.app/graph?username=abhishekratnakar31&theme=tokyonight&hide_border=true&bg_color=0d1117&color=58A6FF" alt="Contribution Graph" />
 </p>
 
 ---
