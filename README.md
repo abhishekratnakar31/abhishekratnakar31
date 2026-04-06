@@ -4,37 +4,37 @@
 </h1>
 
 <h3 align="center">
-  <img src="https://komarev.com/ghpvc/?username=abhishekratnakar31&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
-  <a href="https://twitter.com/abhishekratnakar31" target="_blank">
-    <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="twitter" />
-  </a>
-  <a href="https://linkedin.com/in/abhishekratnakar31" target="_blank">
+  <a href="https://linkedin.com/in/abhishek-ratnakar-668625322/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
   </a>
-  <a href="mailto:abhishek@example.com">
+  <a href="mailto:ratnakarabhishek36@gmail.com">
     <img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" />
   </a>
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=27&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Backend+Developer;Full+Stack+Engineer;API+Architect;Building+Scalable+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=27&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Backend+Engineer;API+Architect;AI+Systems+Builder" alt="Typing SVG" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-I am a developer focused on **building backend systems**, **APIs**, and **full-stack applications**. My work centers on backend architecture, authentication systems, database design, and integrating modern AI technologies like RAG pipelines and embeddings.
+I'm a **Full Stack Developer** focused on **building backend systems**, **APIs**, and **intelligent full-stack applications**. My work centers on backend architecture, authentication systems, database design, and integrating modern AI technologies.
 
-### 🎯 Currently Exploring
+### 🎯 Currently Building
 - Scalable backend systems
-- AI-powered applications
-- System design
+- AI-powered applications with RAG
+- System design projects
 - API architecture
 
 ---
 
 ## 🛠 Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,react,nextjs,postgres,supabase,docker" />
+</p>
 
 ### 💻 Languages
 ![JavaScript](https://skillicons.dev/icons?i=javascript)
@@ -48,14 +48,24 @@ I am a developer focused on **building backend systems**, **APIs**, and **full-s
 ![Zod](https://img.shields.io/badge/Zod-2F1B4D?style=for-the-badge&logo=zod)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 
+### 🌐 Frontend
+![Next.js](https://skillicons.dev/icons?i=nextjs)
+![React](https://skillicons.dev/icons?i=react)
+![HTML5](https://skillicons.dev/icons?i=html)
+![CSS3](https://skillicons.dev/icons?i=css)
+![Tailwind](https://skillicons.dev/icons?i=tailwind)
+
 ### 🗄 Databases
 ![PostgreSQL](https://skillicons.dev/icons?i=postgresql)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=black)
 ![Qdrant](https://img.shields.io/badge/Qdrant-0059C9?style=for-the-badge&logoColor=white)
 
-### 🌐 Frontend
-![Next.js](https://skillicons.dev/icons?i=nextjs)
-![React](https://skillicons.dev/icons?i=react)
+### 🤖 AI & Data Systems
+- RAG Systems
+- Document Chunking
+- Embeddings
+- Semantic Search
+- Vector Databases
 
 ### 🧪 Testing & DevOps
 ![Jest](https://skillicons.dev/icons?i=jest)
@@ -72,7 +82,8 @@ I am a developer focused on **building backend systems**, **APIs**, and **full-s
 | [**Zero-Waste-Foodlink**](https://github.com/abhishekratnakar31/Zero-Waste-Foodlink) | Platform connecting food providers with organizations to reduce food waste | TypeScript, Node.js, REST APIs, PostgreSQL |
 | [**MilkTracker**](https://github.com/abhishekratnakar31/MilkTracker) | Backend system for tracking milk distribution & management | TypeScript, Express, PostgreSQL |
 | [**Google-Calendar-Sync**](https://github.com/abhishekratnakar31/Google-Calendar-Sync) | Google Calendar API integration for event management | JavaScript, OAuth, Google APIs |
-| [**miniGameDashboard**](https://github.com/abhishekratnakar31/miniGameDashboard) | Dashboard for tracking mini game statistics & metrics | JavaScript, Dashboard UI |
+| [**miniGameDashboard**](https://github.com/abhishekratnakar31/miniGameDashboard) | Dashboard for tracking mini game statistics & metrics | JavaScript, Dashboard UI, CSS |
+| [**Ratnakar-Portfolio**](https://github.com/abhishekratnakar31/Ratnakar-Portfolio) | Personal portfolio showcasing projects & skills | Next.js, React, HTML, CSS |
 | [**Performly-Backend**](https://github.com/abhishekratnakar31/Performly-backend) | Backend fork for performance management system | Node.js, Express, PostgreSQL |
 
 ---
@@ -80,19 +91,28 @@ I am a developer focused on **building backend systems**, **APIs**, and **full-s
 ## 🏗 Backend Systems Built
 
 - ✅ JWT authentication system
-- ✅ OAuth login integration (Google OAuth)
+- ✅ Google OAuth integration
 - ✅ API validation with Zod
 - ✅ REST API architecture
 - ✅ Database-driven backend services
-- ✅ API documentation with Swagger
+- ✅ API documentation with Swagger/OpenAPI
 - ✅ Automated backend testing (Jest + Supertest)
 
-## 🤖 AI & Data Systems
+## 🤖 AI Systems Built
 
 - ✅ Document chunking pipelines
 - ✅ Embedding generation
 - ✅ Vector search using Qdrant
 - ✅ RAG-based chatbot systems
+- ✅ Semantic search implementation
+
+## 🎨 Frontend Work
+
+- ✅ Responsive UI design
+- ✅ Flexbox & CSS Grid layouts
+- ✅ Component styling
+- ✅ Dashboard development
+- ✅ Next.js pages
 
 ---
 
@@ -123,11 +143,11 @@ I am a developer focused on **building backend systems**, **APIs**, and **full-s
   <a href="https://github.com/abhishekratnakar31">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://linkedin.com/in/abhishekratnakar31">
+  <a href="https://www.linkedin.com/in/abhishek-ratnakar-668625322/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://twitter.com/abhishekratnakar31">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  <a href="mailto:ratnakarabhishek36@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
 
@@ -138,5 +158,5 @@ I am a developer focused on **building backend systems**, **APIs**, and **full-s
 </p>
 
 <p align="center">
-  <sub><i>Building useful software and learning system design. 🚀</i></sub>
+  <sub><i>Building scalable systems one commit at a time. 🚀</i></sub>
 </p>
